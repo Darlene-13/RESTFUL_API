@@ -31,3 +31,4 @@ class PriceHistory (models.Model):
     
     class Meta:
         ordering = ['-start_date']
+
